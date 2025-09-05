@@ -1,0 +1,381 @@
+date,time,round,home_team,away_team,venue,result,home_goals,away_goals,home_poss,away_poss,home_xg,away_xg,home_sh,away_sh,home_shot_on_target,away_shot_on_target,season
+2022-08-05,20:00,Matchweek 1,Crystal Palace,Arsenal,Home,L,0,2,56.0,44.0,1.2,1.0,10.0,10.0,2.0,2.0,2023
+2022-08-06,12:30,Matchweek 1,Fulham,Liverpool,Home,D,2,2,33.0,67.0,1.2,1.2,8.0,11.0,2.0,3.0,2023
+2022-08-06,15:00,Matchweek 1,Bournemouth,Aston Villa,Home,W,2,0,35.0,65.0,0.6,0.7,7.0,15.0,3.0,2.0,2023
+2022-08-06,15:00,Matchweek 1,Leeds United,Wolves,Home,W,2,1,40.0,60.0,0.8,1.3,12.0,15.0,4.0,6.0,2023
+2022-08-06,15:00,Matchweek 1,Newcastle Utd,Nott'ham Forest,Home,W,2,0,61.0,39.0,1.7,0.3,23.0,5.0,9.0,0.0,2023
+2022-08-06,15:00,Matchweek 1,Tottenham,Southampton,Home,W,4,1,58.0,42.0,1.5,0.5,18.0,10.0,8.0,2.0,2023
+2022-08-06,17:30,Matchweek 1,Everton,Chelsea,Home,L,0,1,38.0,62.0,0.7,1.5,8.0,14.0,3.0,5.0,2023
+2022-08-07,14:00,Matchweek 1,Leicester City,Brentford,Home,D,2,2,56.0,44.0,0.6,0.8,14.0,8.0,5.0,3.0,2023
+2022-08-07,14:00,Matchweek 1,Manchester Utd,Brighton,Home,L,1,2,62.0,38.0,1.4,1.5,17.0,15.0,5.0,4.0,2023
+2022-08-07,16:30,Matchweek 1,West Ham,Manchester City,Home,L,0,2,25.0,75.0,0.5,2.2,6.0,13.0,1.0,1.0,2023
+2022-08-13,12:30,Matchweek 2,Aston Villa,Everton,Home,W,2,1,57.0,43.0,2.3,1.6,12.0,15.0,3.0,4.0,2023
+2022-08-13,15:00,Matchweek 2,Arsenal,Leicester City,Home,W,4,2,50.0,50.0,2.7,0.5,19.0,6.0,7.0,2.0,2023
+2022-08-13,15:00,Matchweek 2,Brighton,Newcastle Utd,Home,D,0,0,54.0,46.0,1.5,0.2,13.0,4.0,5.0,1.0,2023
+2022-08-13,15:00,Matchweek 2,Manchester City,Bournemouth,Home,W,4,0,67.0,33.0,1.7,0.1,19.0,3.0,7.0,1.0,2023
+2022-08-13,15:00,Matchweek 2,Southampton,Leeds United,Home,D,2,2,43.0,57.0,1.2,1.8,14.0,13.0,4.0,5.0,2023
+2022-08-13,15:00,Matchweek 2,Wolves,Fulham,Home,D,0,0,59.0,41.0,0.9,1.5,7.0,8.0,1.0,2.0,2023
+2022-08-13,17:30,Matchweek 2,Brentford,Manchester Utd,Home,W,4,0,34.0,66.0,1.6,0.9,13.0,15.0,7.0,4.0,2023
+2022-08-14,14:00,Matchweek 2,Nott'ham Forest,West Ham,Home,W,1,0,43.0,57.0,1.3,2.1,13.0,18.0,6.0,3.0,2023
+2022-08-14,16:30,Matchweek 2,Chelsea,Tottenham,Home,D,2,2,63.0,37.0,1.6,1.0,16.0,10.0,3.0,5.0,2023
+2022-08-15,20:00,Matchweek 2,Liverpool,Crystal Palace,Home,D,1,1,72.0,28.0,2.0,1.0,24.0,7.0,4.0,3.0,2023
+2022-08-20,12:30,Matchweek 3,Tottenham,Wolves,Home,W,1,0,50.0,50.0,1.7,0.7,11.0,20.0,4.0,3.0,2023
+2022-08-20,15:00,Matchweek 3,Crystal Palace,Aston Villa,Home,W,3,1,51.0,49.0,2.6,0.9,16.0,13.0,8.0,5.0,2023
+2022-08-20,15:00,Matchweek 3,Everton,Nott'ham Forest,Home,D,1,1,49.0,51.0,1.5,1.0,19.0,14.0,8.0,5.0,2023
+2022-08-20,15:00,Matchweek 3,Fulham,Brentford,Home,W,3,2,43.0,57.0,2.4,1.8,18.0,13.0,9.0,5.0,2023
+2022-08-20,15:00,Matchweek 3,Leicester City,Southampton,Home,L,1,2,62.0,38.0,0.3,0.9,6.0,9.0,1.0,3.0,2023
+2022-08-20,17:30,Matchweek 3,Bournemouth,Arsenal,Home,L,0,3,43.0,57.0,0.3,1.3,6.0,14.0,1.0,6.0,2023
+2022-08-21,14:00,Matchweek 3,Leeds United,Chelsea,Home,W,3,0,39.0,61.0,2.1,0.9,12.0,14.0,6.0,3.0,2023
+2022-08-21,14:00,Matchweek 3,West Ham,Brighton,Home,L,0,2,50.0,50.0,0.8,1.7,13.0,10.0,3.0,1.0,2023
+2022-08-21,16:30,Matchweek 3,Newcastle Utd,Manchester City,Home,D,3,3,31.0,69.0,1.8,2.1,12.0,21.0,5.0,10.0,2023
+2022-08-22,20:00,Matchweek 3,Manchester Utd,Liverpool,Home,W,2,1,30.0,70.0,1.8,1.3,13.0,17.0,5.0,5.0,2023
+2022-08-27,12:30,Matchweek 4,Southampton,Manchester Utd,Home,L,0,1,49.0,51.0,1.4,1.1,17.0,11.0,4.0,4.0,2023
+2022-08-27,15:00,Matchweek 4,Brentford,Everton,Home,D,1,1,58.0,42.0,2.1,1.1,20.0,14.0,5.0,7.0,2023
+2022-08-27,15:00,Matchweek 4,Brighton,Leeds United,Home,W,1,0,44.0,56.0,2.0,1.8,13.0,10.0,4.0,2.0,2023
+2022-08-27,15:00,Matchweek 4,Chelsea,Leicester City,Home,W,2,1,45.0,55.0,1.8,2.5,7.0,17.0,4.0,5.0,2023
+2022-08-27,15:00,Matchweek 4,Liverpool,Bournemouth,Home,W,9,0,69.0,31.0,3.3,0.3,19.0,5.0,12.0,2.0,2023
+2022-08-27,15:00,Matchweek 4,Manchester City,Crystal Palace,Home,W,4,2,74.0,26.0,2.2,0.1,18.0,2.0,5.0,2.0,2023
+2022-08-27,17:30,Matchweek 4,Arsenal,Fulham,Home,W,2,1,71.0,29.0,2.6,0.8,22.0,11.0,8.0,3.0,2023
+2022-08-28,14:00,Matchweek 4,Aston Villa,West Ham,Home,L,0,1,58.0,42.0,0.5,0.6,9.0,7.0,3.0,2.0,2023
+2022-08-28,14:00,Matchweek 4,Wolves,Newcastle Utd,Home,D,1,1,37.0,63.0,0.7,1.7,10.0,21.0,4.0,6.0,2023
+2022-08-28,16:30,Matchweek 4,Nott'ham Forest,Tottenham,Home,L,0,2,55.0,45.0,0.9,2.4,17.0,17.0,1.0,5.0,2023
+2022-08-30,19:30,Matchweek 5,Crystal Palace,Brentford,Home,D,1,1,49.0,51.0,1.0,1.4,13.0,9.0,4.0,3.0,2023
+2022-08-30,19:30,Matchweek 5,Fulham,Brighton,Home,W,2,1,39.0,61.0,0.7,1.4,10.0,6.0,3.0,2.0,2023
+2022-08-30,19:45,Matchweek 5,Southampton,Chelsea,Home,W,2,1,33.0,67.0,1.1,1.1,9.0,10.0,5.0,4.0,2023
+2022-08-30,20:00,Matchweek 5,Leeds United,Everton,Home,D,1,1,69.0,31.0,1.0,1.0,14.0,7.0,5.0,2.0,2023
+2022-08-31,19:30,Matchweek 5,Arsenal,Aston Villa,Home,W,2,1,59.0,41.0,2.4,0.4,22.0,4.0,8.0,3.0,2023
+2022-08-31,19:30,Matchweek 5,Bournemouth,Wolves,Home,D,0,0,35.0,65.0,0.4,1.5,5.0,17.0,2.0,3.0,2023
+2022-08-31,19:30,Matchweek 5,Manchester City,Nott'ham Forest,Home,W,6,0,74.0,26.0,3.3,0.7,17.0,8.0,9.0,1.0,2023
+2022-08-31,19:45,Matchweek 5,West Ham,Tottenham,Home,D,1,1,39.0,61.0,1.2,0.6,14.0,12.0,4.0,3.0,2023
+2022-08-31,20:00,Matchweek 5,Liverpool,Newcastle Utd,Home,W,2,1,72.0,28.0,1.5,0.7,23.0,5.0,6.0,2.0,2023
+2022-09-01,20:00,Matchweek 5,Leicester City,Manchester Utd,Home,L,0,1,53.0,47.0,0.7,1.5,10.0,9.0,2.0,2.0,2023
+2022-09-03,12:30,Matchweek 6,Everton,Liverpool,Home,D,0,0,39.0,61.0,1.7,2.1,14.0,23.0,3.0,8.0,2023
+2022-09-03,15:00,Matchweek 6,Brentford,Leeds United,Home,W,5,2,32.0,68.0,2.3,1.7,13.0,17.0,7.0,6.0,2023
+2022-09-03,15:00,Matchweek 6,Chelsea,West Ham,Home,W,2,1,67.0,33.0,0.9,1.1,8.0,6.0,3.0,3.0,2023
+2022-09-03,15:00,Matchweek 6,Newcastle Utd,Crystal Palace,Home,D,0,0,52.0,48.0,2.8,1.0,23.0,19.0,5.0,9.0,2023
+2022-09-03,15:00,Matchweek 6,Nott'ham Forest,Bournemouth,Home,L,2,3,52.0,48.0,1.9,0.8,10.0,8.0,2.0,3.0,2023
+2022-09-03,15:00,Matchweek 6,Tottenham,Fulham,Home,W,2,1,52.0,48.0,2.9,0.7,23.0,9.0,10.0,3.0,2023
+2022-09-03,15:00,Matchweek 6,Wolves,Southampton,Home,W,1,0,51.0,49.0,0.8,1.2,7.0,12.0,2.0,1.0,2023
+2022-09-03,17:30,Matchweek 6,Aston Villa,Manchester City,Home,D,1,1,29.0,71.0,0.3,2.1,3.0,13.0,1.0,4.0,2023
+2022-09-04,14:00,Matchweek 6,Brighton,Leicester City,Home,W,5,2,53.0,47.0,2.6,1.4,22.0,6.0,10.0,4.0,2023
+2022-09-04,16:30,Matchweek 6,Manchester Utd,Arsenal,Home,W,3,1,40.0,60.0,1.5,1.3,10.0,16.0,6.0,3.0,2023
+2022-09-16,20:00,Matchweek 8,Aston Villa,Southampton,Home,W,1,0,53.0,47.0,1.5,0.3,11.0,7.0,3.0,1.0,2023
+2022-09-16,20:00,Matchweek 8,Nott'ham Forest,Fulham,Home,L,2,3,41.0,59.0,1.4,0.9,11.0,15.0,3.0,7.0,2023
+2022-09-17,12:30,Matchweek 8,Wolves,Manchester City,Home,L,0,3,41.0,59.0,0.4,1.1,6.0,16.0,1.0,7.0,2023
+2022-09-17,15:00,Matchweek 8,Newcastle Utd,Bournemouth,Home,D,1,1,72.0,28.0,1.9,0.7,19.0,10.0,6.0,3.0,2023
+2022-09-17,17:30,Matchweek 8,Tottenham,Leicester City,Home,W,6,2,44.0,56.0,2.2,1.8,16.0,18.0,11.0,6.0,2023
+2022-09-18,12:00,Matchweek 8,Brentford,Arsenal,Home,L,0,3,37.0,63.0,0.5,1.5,5.0,13.0,2.0,7.0,2023
+2022-09-18,14:15,Matchweek 8,Everton,West Ham,Home,W,1,0,53.0,47.0,0.4,1.0,7.0,14.0,2.0,4.0,2023
+2022-10-01,12:30,Matchweek 9,Arsenal,Tottenham,Home,W,3,1,64.0,36.0,2.4,1.6,22.0,6.0,9.0,2.0,2023
+2022-10-01,15:00,Matchweek 9,Bournemouth,Brentford,Home,D,0,0,42.0,58.0,0.4,0.9,7.0,13.0,0.0,4.0,2023
+2022-10-01,15:00,Matchweek 9,Crystal Palace,Chelsea,Home,L,1,2,36.0,64.0,0.4,1.1,7.0,13.0,3.0,3.0,2023
+2022-10-01,15:00,Matchweek 9,Fulham,Newcastle Utd,Home,L,1,4,33.0,67.0,0.5,3.3,3.0,19.0,1.0,10.0,2023
+2022-10-01,15:00,Matchweek 9,Liverpool,Brighton,Home,D,3,3,54.0,46.0,1.5,1.4,15.0,6.0,7.0,6.0,2023
+2022-10-01,15:00,Matchweek 9,Southampton,Everton,Home,L,1,2,55.0,45.0,1.7,2.0,22.0,12.0,6.0,5.0,2023
+2022-10-01,17:30,Matchweek 9,West Ham,Wolves,Home,W,2,0,39.0,61.0,0.9,0.7,18.0,15.0,5.0,4.0,2023
+2022-10-02,14:00,Matchweek 9,Manchester City,Manchester Utd,Home,W,6,3,53.0,47.0,3.2,1.7,22.0,11.0,9.0,7.0,2023
+2022-10-02,16:30,Matchweek 9,Leeds United,Aston Villa,Home,D,0,0,44.0,56.0,0.4,2.2,6.0,19.0,1.0,6.0,2023
+2022-10-03,20:00,Matchweek 9,Leicester City,Nott'ham Forest,Home,W,4,0,51.0,49.0,1.3,1.1,17.0,10.0,7.0,3.0,2023
+2022-10-08,15:00,Matchweek 10,Bournemouth,Leicester City,Home,W,2,1,45.0,55.0,1.1,1.0,10.0,9.0,4.0,5.0,2023
+2022-10-08,15:00,Matchweek 10,Chelsea,Wolves,Home,W,3,0,57.0,43.0,1.9,1.1,20.0,8.0,7.0,2.0,2023
+2022-10-08,15:00,Matchweek 10,Manchester City,Southampton,Home,W,4,0,65.0,35.0,2.4,0.2,21.0,5.0,8.0,0.0,2023
+2022-10-08,15:00,Matchweek 10,Newcastle Utd,Brentford,Home,W,5,1,54.0,46.0,1.5,1.2,16.0,5.0,6.0,2.0,2023
+2022-10-08,17:30,Matchweek 10,Brighton,Tottenham,Home,L,0,1,59.0,41.0,0.7,0.8,14.0,8.0,4.0,3.0,2023
+2022-10-09,14:00,Matchweek 10,Crystal Palace,Leeds United,Home,W,2,1,54.0,46.0,1.1,1.0,13.0,10.0,5.0,4.0,2023
+2022-10-09,14:00,Matchweek 10,West Ham,Fulham,Home,W,3,1,50.0,50.0,2.4,0.7,16.0,8.0,7.0,2.0,2023
+2022-10-09,16:30,Matchweek 10,Arsenal,Liverpool,Home,W,3,2,43.0,57.0,2.7,1.1,10.0,8.0,6.0,3.0,2023
+2022-10-09,19:00,Matchweek 10,Everton,Manchester Utd,Home,L,1,2,40.0,60.0,0.6,1.4,11.0,12.0,2.0,4.0,2023
+2022-10-10,20:00,Matchweek 10,Nott'ham Forest,Aston Villa,Home,D,1,1,40.0,60.0,0.3,0.7,6.0,12.0,3.0,2.0,2023
+2022-10-14,20:00,Matchweek 11,Brentford,Brighton,Home,W,2,0,28.0,72.0,1.5,1.9,6.0,21.0,1.0,7.0,2023
+2022-10-15,12:30,Matchweek 11,Leicester City,Crystal Palace,Home,D,0,0,54.0,46.0,1.0,0.4,14.0,8.0,5.0,1.0,2023
+2022-10-15,15:00,Matchweek 11,Fulham,Bournemouth,Home,D,2,2,69.0,31.0,2.1,1.0,18.0,10.0,3.0,6.0,2023
+2022-10-15,15:00,Matchweek 11,Wolves,Nott'ham Forest,Home,W,1,0,58.0,42.0,1.3,1.5,8.0,9.0,1.0,1.0,2023
+2022-10-15,17:30,Matchweek 11,Tottenham,Everton,Home,W,2,0,62.0,38.0,2.2,0.4,20.0,4.0,6.0,0.0,2023
+2022-10-16,14:00,Matchweek 11,Aston Villa,Chelsea,Home,L,0,2,42.0,58.0,1.8,0.9,18.0,8.0,7.0,4.0,2023
+2022-10-16,14:00,Matchweek 11,Leeds United,Arsenal,Home,L,0,1,47.0,53.0,1.8,0.5,15.0,9.0,4.0,4.0,2023
+2022-10-16,14:00,Matchweek 11,Manchester Utd,Newcastle Utd,Home,D,0,0,63.0,37.0,0.8,0.8,15.0,9.0,2.0,2.0,2023
+2022-10-16,14:00,Matchweek 11,Southampton,West Ham,Home,D,1,1,39.0,61.0,0.5,1.7,10.0,25.0,8.0,4.0,2023
+2022-10-16,16:30,Matchweek 11,Liverpool,Manchester City,Home,W,1,0,37.0,63.0,2.1,1.0,13.0,16.0,2.0,6.0,2023
+2022-10-18,19:30,Matchweek 12,Brighton,Nott'ham Forest,Home,D,0,0,70.0,30.0,1.7,0.1,19.0,3.0,7.0,0.0,2023
+2022-10-18,20:15,Matchweek 12,Crystal Palace,Wolves,Home,W,2,1,51.0,49.0,1.2,0.8,14.0,10.0,4.0,4.0,2023
+2022-10-19,19:30,Matchweek 12,Bournemouth,Southampton,Home,L,0,1,54.0,46.0,1.0,1.0,15.0,9.0,3.0,3.0,2023
+2022-10-19,19:30,Matchweek 12,Brentford,Chelsea,Home,D,0,0,34.0,66.0,1.3,0.9,8.0,14.0,5.0,5.0,2023
+2022-10-19,19:30,Matchweek 12,Liverpool,West Ham,Home,W,1,0,54.0,46.0,1.7,1.7,22.0,7.0,7.0,2.0,2023
+2022-10-19,19:30,Matchweek 12,Newcastle Utd,Everton,Home,W,1,0,49.0,51.0,1.5,0.2,16.0,1.0,4.0,0.0,2023
+2022-10-19,20:15,Matchweek 12,Manchester Utd,Tottenham,Home,W,2,0,52.0,48.0,1.5,0.6,28.0,9.0,10.0,2.0,2023
+2022-10-20,19:30,Matchweek 12,Fulham,Aston Villa,Home,W,3,0,60.0,40.0,2.1,1.2,17.0,12.0,6.0,6.0,2023
+2022-10-20,20:15,Matchweek 12,Leicester City,Leeds United,Home,W,2,0,46.0,54.0,0.8,1.3,5.0,14.0,1.0,2.0,2023
+2022-10-22,12:30,Matchweek 13,Nott'ham Forest,Liverpool,Home,W,1,0,25.0,75.0,1.9,1.6,10.0,15.0,7.0,7.0,2023
+2022-10-22,15:00,Matchweek 13,Everton,Crystal Palace,Home,W,3,0,46.0,54.0,1.4,0.9,9.0,9.0,6.0,2.0,2023
+2022-10-22,15:00,Matchweek 13,Manchester City,Brighton,Home,W,3,1,48.0,52.0,1.6,0.5,9.0,8.0,3.0,2.0,2023
+2022-10-22,17:30,Matchweek 13,Chelsea,Manchester Utd,Home,D,1,1,48.0,52.0,1.1,0.8,5.0,13.0,1.0,6.0,2023
+2022-10-23,14:00,Matchweek 13,Aston Villa,Brentford,Home,W,4,0,45.0,55.0,2.8,0.9,18.0,12.0,10.0,3.0,2023
+2022-10-23,14:00,Matchweek 13,Leeds United,Fulham,Home,L,2,3,57.0,43.0,1.6,1.8,14.0,11.0,5.0,4.0,2023
+2022-10-23,14:00,Matchweek 13,Southampton,Arsenal,Home,D,1,1,41.0,59.0,0.7,1.0,10.0,12.0,3.0,3.0,2023
+2022-10-23,14:00,Matchweek 13,Wolves,Leicester City,Home,L,0,4,60.0,40.0,2.1,0.9,21.0,5.0,5.0,4.0,2023
+2022-10-23,16:30,Matchweek 13,Tottenham,Newcastle Utd,Home,L,1,2,53.0,47.0,1.6,1.2,17.0,13.0,4.0,5.0,2023
+2022-10-24,20:00,Matchweek 13,West Ham,Bournemouth,Home,W,2,0,55.0,45.0,1.9,0.4,19.0,5.0,3.0,3.0,2023
+2022-10-29,12:30,Matchweek 14,Leicester City,Manchester City,Home,L,0,1,36.0,64.0,0.7,1.0,10.0,15.0,5.0,5.0,2023
+2022-10-29,15:00,Matchweek 14,Bournemouth,Tottenham,Home,L,2,3,31.0,69.0,0.5,2.0,6.0,23.0,4.0,7.0,2023
+2022-10-29,15:00,Matchweek 14,Brentford,Wolves,Home,D,1,1,58.0,42.0,1.4,0.6,12.0,13.0,3.0,4.0,2023
+2022-10-29,15:00,Matchweek 14,Brighton,Chelsea,Home,W,4,1,41.0,59.0,2.4,1.4,19.0,15.0,7.0,7.0,2023
+2022-10-29,15:00,Matchweek 14,Crystal Palace,Southampton,Home,W,1,0,44.0,56.0,0.9,1.3,12.0,14.0,3.0,4.0,2023
+2022-10-29,15:00,Matchweek 14,Newcastle Utd,Aston Villa,Home,W,4,0,59.0,41.0,3.4,0.4,19.0,3.0,6.0,0.0,2023
+2022-10-29,17:30,Matchweek 14,Fulham,Everton,Home,D,0,0,56.0,44.0,1.9,0.9,24.0,9.0,6.0,4.0,2023
+2022-10-29,19:45,Matchweek 14,Liverpool,Leeds United,Home,L,1,2,68.0,32.0,1.7,1.8,22.0,14.0,10.0,6.0,2023
+2022-10-30,14:00,Matchweek 14,Arsenal,Nott'ham Forest,Home,W,5,0,69.0,31.0,2.3,0.4,24.0,5.0,9.0,2.0,2023
+2022-10-30,16:15,Matchweek 14,Manchester Utd,West Ham,Home,W,1,0,53.0,47.0,1.2,1.1,16.0,13.0,3.0,4.0,2023
+2022-11-05,15:00,Matchweek 15,Leeds United,Bournemouth,Home,W,4,3,60.0,40.0,2.2,1.5,17.0,9.0,3.0,5.0,2023
+2022-11-05,15:00,Matchweek 15,Manchester City,Fulham,Home,W,2,1,70.0,30.0,2.1,1.0,15.0,3.0,4.0,1.0,2023
+2022-11-05,15:00,Matchweek 15,Nott'ham Forest,Brentford,Home,D,2,2,48.0,52.0,1.5,1.5,15.0,5.0,6.0,1.0,2023
+2022-11-05,15:00,Matchweek 15,Wolves,Brighton,Home,L,2,3,29.0,71.0,1.2,1.5,7.0,19.0,4.0,8.0,2023
+2022-11-05,17:30,Matchweek 15,Everton,Leicester City,Home,L,0,2,49.0,51.0,1.2,2.3,12.0,22.0,2.0,8.0,2023
+2022-11-06,12:00,Matchweek 15,Chelsea,Arsenal,Home,L,0,1,45.0,55.0,0.3,2.1,5.0,14.0,1.0,2.0,2023
+2022-11-06,14:00,Matchweek 15,Aston Villa,Manchester Utd,Home,W,3,1,42.0,58.0,0.6,0.5,6.0,8.0,4.0,3.0,2023
+2022-11-06,14:00,Matchweek 15,Southampton,Newcastle Utd,Home,L,1,4,55.0,45.0,1.7,0.9,16.0,7.0,5.0,4.0,2023
+2022-11-06,14:00,Matchweek 15,West Ham,Crystal Palace,Home,L,1,2,42.0,58.0,0.3,1.0,5.0,15.0,2.0,6.0,2023
+2022-11-06,16:30,Matchweek 15,Tottenham,Liverpool,Home,L,1,2,47.0,53.0,1.2,1.2,14.0,13.0,5.0,6.0,2023
+2022-11-12,12:30,Matchweek 16,Manchester City,Brentford,Home,L,1,2,74.0,26.0,1.6,1.3,29.0,10.0,6.0,7.0,2023
+2022-11-12,15:00,Matchweek 16,Bournemouth,Everton,Home,W,3,0,36.0,64.0,2.4,0.8,16.0,15.0,8.0,3.0,2023
+2022-11-12,15:00,Matchweek 16,Liverpool,Southampton,Home,W,3,1,60.0,40.0,1.9,1.1,15.0,9.0,7.0,5.0,2023
+2022-11-12,15:00,Matchweek 16,Nott'ham Forest,Crystal Palace,Home,W,1,0,32.0,68.0,1.1,1.2,9.0,7.0,2.0,0.0,2023
+2022-11-12,15:00,Matchweek 16,Tottenham,Leeds United,Home,W,4,3,55.0,45.0,1.8,1.1,14.0,12.0,7.0,5.0,2023
+2022-11-12,15:00,Matchweek 16,West Ham,Leicester City,Home,L,0,2,54.0,46.0,1.4,1.8,18.0,8.0,6.0,5.0,2023
+2022-11-12,17:30,Matchweek 16,Newcastle Utd,Chelsea,Home,W,1,0,49.0,51.0,1.0,0.3,10.0,5.0,3.0,2.0,2023
+2022-11-12,19:45,Matchweek 16,Wolves,Arsenal,Home,L,0,2,38.0,62.0,0.7,2.1,11.0,14.0,2.0,3.0,2023
+2022-11-13,14:00,Matchweek 16,Brighton,Aston Villa,Home,L,1,2,65.0,35.0,0.6,1.5,7.0,7.0,2.0,1.0,2023
+2022-11-13,16:30,Matchweek 16,Fulham,Manchester Utd,Home,L,1,2,53.0,47.0,1.4,2.5,14.0,14.0,7.0,9.0,2023
+2022-12-26,12:30,Matchweek 17,Brentford,Tottenham,Home,D,2,2,39.0,61.0,2.0,1.1,9.0,15.0,4.0,8.0,2023
+2022-12-26,15:00,Matchweek 17,Crystal Palace,Fulham,Home,L,0,3,36.0,64.0,0.4,2.5,4.0,23.0,0.0,10.0,2023
+2022-12-26,15:00,Matchweek 17,Everton,Wolves,Home,L,1,2,58.0,42.0,1.7,0.8,12.0,7.0,5.0,4.0,2023
+2022-12-26,15:00,Matchweek 17,Leicester City,Newcastle Utd,Home,L,0,3,60.0,40.0,0.5,1.9,8.0,11.0,2.0,4.0,2023
+2022-12-26,15:00,Matchweek 17,Southampton,Brighton,Home,L,1,3,34.0,66.0,1.9,0.6,13.0,7.0,3.0,4.0,2023
+2022-12-26,17:30,Matchweek 17,Aston Villa,Liverpool,Home,L,1,3,48.0,52.0,1.4,2.7,12.0,16.0,6.0,9.0,2023
+2022-12-26,20:00,Matchweek 17,Arsenal,West Ham,Home,W,3,1,66.0,34.0,2.1,1.0,16.0,7.0,5.0,3.0,2023
+2022-12-27,17:30,Matchweek 17,Chelsea,Bournemouth,Home,W,2,0,60.0,40.0,1.8,0.5,15.0,9.0,5.0,4.0,2023
+2022-12-27,20:00,Matchweek 17,Manchester Utd,Nott'ham Forest,Home,W,3,0,65.0,35.0,2.4,0.7,17.0,8.0,8.0,3.0,2023
+2022-12-28,20:00,Matchweek 17,Leeds United,Manchester City,Home,L,1,3,31.0,69.0,0.6,4.3,9.0,26.0,1.0,9.0,2023
+2022-12-30,19:45,Matchweek 18,West Ham,Brentford,Home,L,0,2,63.0,37.0,1.3,1.6,20.0,9.0,5.0,6.0,2023
+2022-12-30,20:00,Matchweek 18,Liverpool,Leicester City,Home,W,2,1,57.0,43.0,2.2,1.0,21.0,7.0,5.0,2.0,2023
+2022-12-31,12:30,Matchweek 18,Wolves,Manchester Utd,Home,L,0,1,46.0,54.0,0.7,2.0,10.0,16.0,3.0,6.0,2023
+2022-12-31,15:00,Matchweek 18,Bournemouth,Crystal Palace,Home,L,0,2,59.0,41.0,0.6,1.6,6.0,15.0,2.0,6.0,2023
+2022-12-31,15:00,Matchweek 18,Fulham,Southampton,Home,W,2,1,62.0,38.0,1.5,0.8,7.0,9.0,1.0,3.0,2023
+2022-12-31,15:00,Matchweek 18,Manchester City,Everton,Home,D,1,1,74.0,26.0,1.7,0.1,16.0,2.0,3.0,1.0,2023
+2022-12-31,15:00,Matchweek 18,Newcastle Utd,Leeds United,Home,D,0,0,60.0,40.0,2.2,0.4,16.0,8.0,5.0,1.0,2023
+2022-12-31,17:30,Matchweek 18,Brighton,Arsenal,Home,L,2,4,68.0,32.0,1.2,2.9,9.0,14.0,5.0,7.0,2023
+2023-01-01,14:00,Matchweek 18,Tottenham,Aston Villa,Home,L,0,2,59.0,41.0,0.7,1.0,6.0,13.0,1.0,4.0,2023
+2023-01-01,16:30,Matchweek 18,Nott'ham Forest,Chelsea,Home,D,1,1,29.0,71.0,1.4,0.9,12.0,7.0,5.0,2.0,2023
+2023-01-02,17:30,Matchweek 19,Brentford,Liverpool,Home,W,3,1,28.0,72.0,1.6,0.9,10.0,16.0,7.0,5.0,2023
+2023-01-03,19:45,Matchweek 19,Arsenal,Newcastle Utd,Home,D,0,0,66.0,34.0,1.1,1.0,17.0,8.0,4.0,1.0,2023
+2023-01-03,19:45,Matchweek 19,Everton,Brighton,Home,L,1,4,49.0,51.0,1.3,2.2,9.0,19.0,3.0,8.0,2023
+2023-01-03,19:45,Matchweek 19,Leicester City,Fulham,Home,L,0,1,61.0,39.0,1.7,1.7,15.0,11.0,6.0,2.0,2023
+2023-01-03,20:00,Matchweek 19,Manchester Utd,Bournemouth,Home,W,3,0,58.0,42.0,2.2,0.6,18.0,7.0,6.0,4.0,2023
+2023-01-04,19:30,Matchweek 19,Southampton,Nott'ham Forest,Home,L,0,1,63.0,37.0,0.5,1.4,8.0,11.0,0.0,1.0,2023
+2023-01-04,19:45,Matchweek 19,Leeds United,West Ham,Home,D,2,2,62.0,38.0,1.6,1.4,14.0,14.0,5.0,1.0,2023
+2023-01-04,20:00,Matchweek 19,Aston Villa,Wolves,Home,D,1,1,56.0,44.0,1.8,0.9,13.0,10.0,3.0,3.0,2023
+2023-01-04,20:00,Matchweek 19,Crystal Palace,Tottenham,Home,L,0,4,47.0,53.0,0.8,1.4,19.0,14.0,4.0,6.0,2023
+2023-01-05,20:00,Matchweek 19,Chelsea,Manchester City,Home,L,0,1,48.0,52.0,0.4,2.0,8.0,12.0,2.0,3.0,2023
+2023-01-12,20:00,Matchweek 7,Fulham,Chelsea,Home,W,2,1,48.0,52.0,1.0,2.1,8.0,20.0,3.0,10.0,2023
+2023-01-13,20:00,Matchweek 20,Aston Villa,Leeds United,Home,W,2,1,52.0,48.0,1.2,2.4,11.0,16.0,5.0,3.0,2023
+2023-01-14,12:30,Matchweek 20,Manchester Utd,Manchester City,Home,W,2,1,30.0,70.0,1.7,0.6,8.0,5.0,3.0,1.0,2023
+2023-01-14,15:00,Matchweek 20,Brighton,Liverpool,Home,W,3,0,61.0,39.0,1.9,1.0,16.0,6.0,8.0,2.0,2023
+2023-01-14,15:00,Matchweek 20,Everton,Southampton,Home,L,1,2,52.0,48.0,1.4,1.2,12.0,13.0,4.0,5.0,2023
+2023-01-14,15:00,Matchweek 20,Nott'ham Forest,Leicester City,Home,W,2,0,39.0,61.0,2.4,1.0,15.0,6.0,5.0,1.0,2023
+2023-01-14,15:00,Matchweek 20,Wolves,West Ham,Home,W,1,0,58.0,42.0,0.9,1.1,17.0,16.0,4.0,3.0,2023
+2023-01-14,17:30,Matchweek 20,Brentford,Bournemouth,Home,W,2,0,50.0,50.0,1.4,0.6,11.0,7.0,3.0,2.0,2023
+2023-01-15,14:00,Matchweek 20,Chelsea,Crystal Palace,Home,W,1,0,61.0,39.0,1.5,0.7,15.0,10.0,5.0,5.0,2023
+2023-01-15,14:00,Matchweek 20,Newcastle Utd,Fulham,Home,W,1,0,62.0,38.0,2.2,1.1,20.0,4.0,5.0,0.0,2023
+2023-01-15,16:30,Matchweek 20,Tottenham,Arsenal,Home,L,0,2,51.0,49.0,1.6,1.8,17.0,14.0,7.0,5.0,2023
+2023-01-18,20:00,Matchweek 7,Crystal Palace,Manchester Utd,Home,D,1,1,40.0,60.0,0.5,2.1,10.0,15.0,5.0,4.0,2023
+2023-01-19,20:00,Matchweek 7,Manchester City,Tottenham,Home,W,4,2,58.0,42.0,2.3,0.8,16.0,9.0,6.0,3.0,2023
+2023-01-21,12:30,Matchweek 21,Liverpool,Chelsea,Home,D,0,0,48.0,52.0,1.4,1.6,15.0,11.0,3.0,2.0,2023
+2023-01-21,15:00,Matchweek 21,Bournemouth,Nott'ham Forest,Home,D,1,1,43.0,57.0,1.4,1.9,16.0,20.0,3.0,5.0,2023
+2023-01-21,15:00,Matchweek 21,Leicester City,Brighton,Home,D,2,2,37.0,63.0,0.9,1.7,9.0,13.0,2.0,4.0,2023
+2023-01-21,15:00,Matchweek 21,Southampton,Aston Villa,Home,L,0,1,37.0,63.0,0.6,1.4,8.0,16.0,5.0,5.0,2023
+2023-01-21,15:00,Matchweek 21,West Ham,Everton,Home,W,2,0,33.0,67.0,2.2,0.5,11.0,5.0,4.0,2.0,2023
+2023-01-21,17:30,Matchweek 21,Crystal Palace,Newcastle Utd,Home,D,0,0,40.0,60.0,0.3,1.2,6.0,16.0,1.0,7.0,2023
+2023-01-22,14:00,Matchweek 21,Leeds United,Brentford,Home,D,0,0,58.0,42.0,0.5,0.4,9.0,6.0,5.0,0.0,2023
+2023-01-22,14:00,Matchweek 21,Manchester City,Wolves,Home,W,3,0,55.0,45.0,2.8,0.8,12.0,10.0,5.0,1.0,2023
+2023-01-22,16:30,Matchweek 21,Arsenal,Manchester Utd,Home,W,3,2,57.0,43.0,3.1,0.4,25.0,6.0,5.0,4.0,2023
+2023-01-23,20:00,Matchweek 21,Fulham,Tottenham,Home,L,0,1,54.0,46.0,1.0,0.9,10.0,10.0,5.0,3.0,2023
+2023-02-03,20:00,Matchweek 22,Chelsea,Fulham,Home,D,0,0,66.0,34.0,1.3,0.6,12.0,10.0,2.0,4.0,2023
+2023-02-04,12:30,Matchweek 22,Everton,Arsenal,Home,W,1,0,30.0,70.0,1.7,0.9,12.0,15.0,4.0,2.0,2023
+2023-02-04,15:00,Matchweek 22,Aston Villa,Leicester City,Home,L,2,4,62.0,38.0,1.7,2.6,19.0,9.0,4.0,5.0,2023
+2023-02-04,15:00,Matchweek 22,Brentford,Southampton,Home,W,3,0,49.0,51.0,2.0,0.7,14.0,14.0,3.0,5.0,2023
+2023-02-04,15:00,Matchweek 22,Brighton,Bournemouth,Home,W,1,0,71.0,29.0,2.2,1.1,20.0,12.0,6.0,2.0,2023
+2023-02-04,15:00,Matchweek 22,Manchester Utd,Crystal Palace,Home,W,2,1,52.0,48.0,2.0,1.3,13.0,10.0,4.0,3.0,2023
+2023-02-04,15:00,Matchweek 22,Wolves,Liverpool,Home,W,3,0,41.0,59.0,2.0,1.8,12.0,22.0,5.0,2.0,2023
+2023-02-04,17:30,Matchweek 22,Newcastle Utd,West Ham,Home,D,1,1,62.0,38.0,1.0,1.0,8.0,10.0,2.0,1.0,2023
+2023-02-05,14:00,Matchweek 22,Nott'ham Forest,Leeds United,Home,W,1,0,30.0,70.0,0.4,0.9,6.0,10.0,2.0,4.0,2023
+2023-02-05,16:30,Matchweek 22,Tottenham,Manchester City,Home,W,1,0,36.0,64.0,1.4,1.3,12.0,15.0,3.0,5.0,2023
+2023-02-08,20:00,Matchweek 8,Manchester Utd,Leeds United,Home,D,2,2,66.0,34.0,2.0,0.6,24.0,8.0,6.0,2.0,2023
+2023-02-11,12:30,Matchweek 23,West Ham,Chelsea,Home,D,1,1,29.0,71.0,1.3,1.1,10.0,12.0,2.0,4.0,2023
+2023-02-11,15:00,Matchweek 23,Arsenal,Brentford,Home,D,1,1,69.0,31.0,1.6,2.0,23.0,9.0,7.0,2.0,2023
+2023-02-11,15:00,Matchweek 23,Crystal Palace,Brighton,Home,D,1,1,27.0,73.0,1.1,2.5,6.0,17.0,1.0,7.0,2023
+2023-02-11,15:00,Matchweek 23,Fulham,Nott'ham Forest,Home,W,2,0,50.0,50.0,1.5,0.7,16.0,10.0,3.0,1.0,2023
+2023-02-11,15:00,Matchweek 23,Leicester City,Tottenham,Home,W,4,1,49.0,51.0,1.7,1.3,15.0,11.0,6.0,4.0,2023
+2023-02-11,15:00,Matchweek 23,Southampton,Wolves,Home,L,1,2,41.0,59.0,1.1,0.8,17.0,11.0,2.0,1.0,2023
+2023-02-11,17:30,Matchweek 23,Bournemouth,Newcastle Utd,Home,D,1,1,34.0,66.0,1.5,1.3,11.0,15.0,4.0,7.0,2023
+2023-02-12,14:00,Matchweek 23,Leeds United,Manchester Utd,Home,L,0,2,34.0,66.0,1.8,1.1,16.0,11.0,6.0,5.0,2023
+2023-02-12,16:30,Matchweek 23,Manchester City,Aston Villa,Home,W,3,1,67.0,33.0,3.3,0.3,16.0,6.0,7.0,2.0,2023
+2023-02-13,20:00,Matchweek 23,Liverpool,Everton,Home,W,2,0,59.0,41.0,2.3,0.4,15.0,6.0,6.0,1.0,2023
+2023-02-15,19:30,Matchweek 12,Arsenal,Manchester City,Home,L,1,3,63.0,37.0,1.6,1.8,9.0,9.0,0.0,5.0,2023
+2023-02-18,12:30,Matchweek 24,Aston Villa,Arsenal,Home,L,2,4,33.0,67.0,0.5,3.2,7.0,20.0,5.0,5.0,2023
+2023-02-18,15:00,Matchweek 24,Brentford,Crystal Palace,Home,D,1,1,59.0,41.0,0.9,1.1,12.0,10.0,5.0,4.0,2023
+2023-02-18,15:00,Matchweek 24,Brighton,Fulham,Home,L,0,1,65.0,35.0,2.2,0.3,21.0,5.0,7.0,2.0,2023
+2023-02-18,15:00,Matchweek 24,Chelsea,Southampton,Home,L,0,1,62.0,38.0,1.6,0.6,17.0,8.0,4.0,4.0,2023
+2023-02-18,15:00,Matchweek 24,Everton,Leeds United,Home,W,1,0,51.0,49.0,1.4,0.5,15.0,8.0,4.0,0.0,2023
+2023-02-18,15:00,Matchweek 24,Nott'ham Forest,Manchester City,Home,D,1,1,27.0,73.0,0.9,2.4,4.0,23.0,1.0,6.0,2023
+2023-02-18,15:00,Matchweek 24,Wolves,Bournemouth,Home,L,0,1,68.0,32.0,1.3,1.1,15.0,5.0,4.0,1.0,2023
+2023-02-18,17:30,Matchweek 24,Newcastle Utd,Liverpool,Home,L,0,2,38.0,62.0,2.0,1.9,14.0,13.0,4.0,7.0,2023
+2023-02-19,14:00,Matchweek 24,Manchester Utd,Leicester City,Home,W,3,0,57.0,43.0,4.4,1.6,26.0,19.0,8.0,3.0,2023
+2023-02-19,16:30,Matchweek 24,Tottenham,West Ham,Home,W,2,0,57.0,43.0,1.5,0.5,16.0,6.0,6.0,1.0,2023
+2023-02-24,20:00,Matchweek 25,Fulham,Wolves,Home,D,1,1,51.0,49.0,0.5,0.8,10.0,8.0,5.0,2.0,2023
+2023-02-25,15:00,Matchweek 25,Everton,Aston Villa,Home,L,0,2,47.0,53.0,1.6,1.9,15.0,8.0,4.0,4.0,2023
+2023-02-25,15:00,Matchweek 25,Leeds United,Southampton,Home,W,1,0,61.0,39.0,0.9,0.4,14.0,8.0,4.0,2.0,2023
+2023-02-25,15:00,Matchweek 25,Leicester City,Arsenal,Home,L,0,1,35.0,65.0,0.0,0.7,1.0,10.0,0.0,2.0,2023
+2023-02-25,15:00,Matchweek 25,West Ham,Nott'ham Forest,Home,W,4,0,49.0,51.0,2.7,0.4,18.0,8.0,5.0,3.0,2023
+2023-02-25,17:30,Matchweek 25,Bournemouth,Manchester City,Home,L,1,4,35.0,66.0,1.0,2.4,13.0,20.0,2.0,5.0,2023
+2023-02-25,19:45,Matchweek 25,Crystal Palace,Liverpool,Home,D,0,0,37.0,63.0,0.7,0.9,6.0,12.0,0.0,4.0,2023
+2023-02-26,13:30,Matchweek 25,Tottenham,Chelsea,Home,W,2,0,41.0,59.0,0.8,0.4,8.0,10.0,3.0,2.0,2023
+2023-03-01,19:45,Matchweek 7,Arsenal,Everton,Home,W,4,0,73.0,27.0,2.4,1.2,15.0,8.0,5.0,5.0,2023
+2023-03-01,20:00,Matchweek 7,Liverpool,Wolves,Home,W,2,0,57.0,43.0,2.6,0.8,15.0,4.0,6.0,1.0,2023
+2023-03-04,12:30,Matchweek 26,Manchester City,Newcastle Utd,Home,W,2,0,56.0,44.0,1.3,0.4,11.0,5.0,3.0,2.0,2023
+2023-03-04,15:00,Matchweek 26,Arsenal,Bournemouth,Home,W,3,2,79.0,21.0,2.1,1.3,31.0,4.0,9.0,4.0,2023
+2023-03-04,15:00,Matchweek 26,Aston Villa,Crystal Palace,Home,W,1,0,58.0,42.0,1.2,0.2,8.0,3.0,1.0,0.0,2023
+2023-03-04,15:00,Matchweek 26,Brighton,West Ham,Home,W,4,0,65.0,35.0,3.5,0.3,19.0,3.0,8.0,2.0,2023
+2023-03-04,15:00,Matchweek 26,Chelsea,Leeds United,Home,W,1,0,57.0,43.0,1.5,1.0,13.0,11.0,3.0,2.0,2023
+2023-03-04,15:00,Matchweek 26,Wolves,Tottenham,Home,W,1,0,46.0,54.0,0.5,1.2,8.0,21.0,5.0,6.0,2023
+2023-03-04,17:30,Matchweek 26,Southampton,Leicester City,Home,W,1,0,35.0,65.0,1.4,1.9,10.0,11.0,4.0,0.0,2023
+2023-03-05,14:00,Matchweek 26,Nott'ham Forest,Everton,Home,D,2,2,57.0,43.0,0.8,1.7,10.0,9.0,4.0,2.0,2023
+2023-03-05,16:30,Matchweek 26,Liverpool,Manchester Utd,Home,W,7,0,59.0,41.0,2.8,0.8,18.0,8.0,8.0,4.0,2023
+2023-03-06,20:00,Matchweek 26,Brentford,Fulham,Home,W,3,2,37.0,63.0,2.1,1.4,13.0,9.0,5.0,5.0,2023
+2023-03-11,12:30,Matchweek 27,Bournemouth,Liverpool,Home,W,1,0,31.0,69.0,0.9,1.7,5.0,14.0,2.0,5.0,2023
+2023-03-11,15:00,Matchweek 27,Everton,Brentford,Home,W,1,0,33.0,67.0,1.0,2.0,13.0,12.0,6.0,3.0,2023
+2023-03-11,15:00,Matchweek 27,Leeds United,Brighton,Home,D,2,2,38.0,62.0,0.9,2.7,12.0,15.0,4.0,3.0,2023
+2023-03-11,15:00,Matchweek 27,Leicester City,Chelsea,Home,L,1,3,48.0,52.0,2.4,1.6,17.0,12.0,6.0,6.0,2023
+2023-03-11,15:00,Matchweek 27,Tottenham,Nott'ham Forest,Home,W,3,1,55.0,45.0,2.0,1.5,14.0,8.0,6.0,4.0,2023
+2023-03-11,17:30,Matchweek 27,Crystal Palace,Manchester City,Home,L,0,1,33.0,67.0,0.2,2.1,4.0,13.0,0.0,3.0,2023
+2023-03-12,14:00,Matchweek 27,Fulham,Arsenal,Home,L,0,3,45.0,55.0,0.8,2.3,12.0,15.0,2.0,7.0,2023
+2023-03-12,14:00,Matchweek 27,Manchester Utd,Southampton,Home,D,0,0,47.0,53.0,0.8,1.0,10.0,17.0,4.0,4.0,2023
+2023-03-12,14:00,Matchweek 27,West Ham,Aston Villa,Home,D,1,1,41.0,59.0,2.1,1.5,16.0,12.0,4.0,4.0,2023
+2023-03-12,16:30,Matchweek 27,Newcastle Utd,Wolves,Home,W,2,1,43.0,57.0,1.8,1.1,19.0,7.0,8.0,4.0,2023
+2023-03-15,19:30,Matchweek 8,Brighton,Crystal Palace,Home,W,1,0,57.0,43.0,0.6,1.1,11.0,11.0,5.0,3.0,2023
+2023-03-15,19:30,Matchweek 7,Southampton,Brentford,Home,L,0,2,66.0,34.0,0.5,1.9,7.0,11.0,0.0,4.0,2023
+2023-03-17,20:00,Matchweek 28,Nott'ham Forest,Newcastle Utd,Home,L,1,2,39.0,61.0,0.4,2.4,5.0,14.0,3.0,3.0,2023
+2023-03-18,15:00,Matchweek 28,Aston Villa,Bournemouth,Home,W,3,0,56.0,44.0,3.5,1.3,20.0,10.0,9.0,3.0,2023
+2023-03-18,15:00,Matchweek 28,Brentford,Leicester City,Home,D,1,1,53.0,47.0,0.6,1.3,11.0,14.0,2.0,1.0,2023
+2023-03-18,15:00,Matchweek 28,Southampton,Tottenham,Home,D,3,3,51.0,49.0,2.4,2.3,18.0,17.0,6.0,3.0,2023
+2023-03-18,15:00,Matchweek 28,Wolves,Leeds United,Home,L,2,4,65.0,35.0,2.7,1.6,23.0,11.0,8.0,4.0,2023
+2023-03-18,17:30,Matchweek 28,Chelsea,Everton,Home,D,2,2,68.0,32.0,2.3,1.2,19.0,12.0,6.0,3.0,2023
+2023-03-19,14:00,Matchweek 28,Arsenal,Crystal Palace,Home,W,4,1,62.0,38.0,1.6,0.8,15.0,9.0,5.0,5.0,2023
+2023-04-01,12:30,Matchweek 29,Manchester City,Liverpool,Home,W,4,1,68.0,32.0,2.9,0.3,17.0,4.0,8.0,1.0,2023
+2023-04-01,15:00,Matchweek 29,Arsenal,Leeds United,Home,W,4,1,66.0,34.0,3.8,0.7,12.0,7.0,4.0,5.0,2023
+2023-04-01,15:00,Matchweek 29,Bournemouth,Fulham,Home,W,2,1,43.0,57.0,2.6,0.8,12.0,10.0,6.0,2.0,2023
+2023-04-01,15:00,Matchweek 29,Brighton,Brentford,Home,D,3,3,72.0,28.0,4.2,1.6,32.0,7.0,13.0,5.0,2023
+2023-04-01,15:00,Matchweek 29,Crystal Palace,Leicester City,Home,W,2,1,52.0,48.0,2.3,0.2,31.0,3.0,9.0,2.0,2023
+2023-04-01,15:00,Matchweek 29,Nott'ham Forest,Wolves,Home,D,1,1,29.0,71.0,1.3,0.5,17.0,8.0,7.0,1.0,2023
+2023-04-01,17:30,Matchweek 29,Chelsea,Aston Villa,Home,L,0,2,69.0,31.0,2.1,0.9,27.0,5.0,7.0,2.0,2023
+2023-04-02,14:00,Matchweek 29,West Ham,Southampton,Home,W,1,0,43.0,57.0,1.4,0.3,12.0,9.0,2.0,3.0,2023
+2023-04-02,16:30,Matchweek 29,Newcastle Utd,Manchester Utd,Home,W,2,0,46.0,54.0,3.7,0.4,22.0,6.0,6.0,1.0,2023
+2023-04-03,20:00,Matchweek 29,Everton,Tottenham,Home,D,1,1,39.0,61.0,0.9,1.4,15.0,7.0,6.0,0.0,2023
+2023-04-04,19:45,Matchweek 7,Bournemouth,Brighton,Home,L,0,2,37.0,63.0,1.7,2.7,14.0,16.0,3.0,6.0,2023
+2023-04-04,19:45,Matchweek 7,Leeds United,Nott'ham Forest,Home,W,2,1,61.0,39.0,1.8,0.8,21.0,13.0,6.0,1.0,2023
+2023-04-04,19:45,Matchweek 7,Leicester City,Aston Villa,Home,L,1,2,36.0,64.0,0.5,1.0,9.0,15.0,4.0,5.0,2023
+2023-04-04,20:00,Matchweek 8,Chelsea,Liverpool,Home,D,0,0,49.0,51.0,2.2,0.3,12.0,7.0,2.0,3.0,2023
+2023-04-05,20:00,Matchweek 25,Manchester Utd,Brentford,Home,W,1,0,64.0,36.0,1.2,0.7,18.0,6.0,3.0,1.0,2023
+2023-04-05,20:00,Matchweek 7,West Ham,Newcastle Utd,Home,L,1,5,42.0,58.0,1.0,3.3,7.0,15.0,2.0,7.0,2023
+2023-04-08,12:30,Matchweek 30,Manchester Utd,Everton,Home,W,2,0,63.0,37.0,3.4,1.0,29.0,15.0,11.0,1.0,2023
+2023-04-08,15:00,Matchweek 30,Aston Villa,Nott'ham Forest,Home,W,2,0,63.0,37.0,1.3,0.2,8.0,6.0,3.0,2.0,2023
+2023-04-08,15:00,Matchweek 30,Brentford,Newcastle Utd,Home,L,1,2,42.0,58.0,2.6,1.3,10.0,10.0,4.0,4.0,2023
+2023-04-08,15:00,Matchweek 30,Fulham,West Ham,Home,L,0,1,76.0,24.0,0.7,1.1,16.0,9.0,3.0,5.0,2023
+2023-04-08,15:00,Matchweek 30,Leicester City,Bournemouth,Home,L,0,1,51.0,49.0,0.6,1.9,14.0,19.0,4.0,7.0,2023
+2023-04-08,15:00,Matchweek 30,Tottenham,Brighton,Home,W,2,1,35.0,65.0,0.8,1.4,9.0,17.0,3.0,4.0,2023
+2023-04-08,15:00,Matchweek 30,Wolves,Chelsea,Home,W,1,0,38.0,62.0,0.6,1.1,9.0,13.0,4.0,1.0,2023
+2023-04-08,17:30,Matchweek 30,Southampton,Manchester City,Home,L,1,4,27.0,73.0,0.4,2.9,4.0,12.0,1.0,7.0,2023
+2023-04-09,14:00,Matchweek 30,Leeds United,Crystal Palace,Home,L,1,5,48.0,52.0,0.9,3.0,11.0,16.0,7.0,7.0,2023
+2023-04-09,16:30,Matchweek 30,Liverpool,Arsenal,Home,D,2,2,59.0,41.0,3.9,1.4,20.0,9.0,6.0,5.0,2023
+2023-04-15,12:30,Matchweek 31,Aston Villa,Newcastle Utd,Home,W,3,0,52.0,48.0,1.9,0.5,16.0,8.0,6.0,2.0,2023
+2023-04-15,15:00,Matchweek 31,Chelsea,Brighton,Home,L,1,2,43.0,57.0,0.5,2.9,8.0,26.0,2.0,10.0,2023
+2023-04-15,15:00,Matchweek 31,Everton,Fulham,Home,L,1,3,46.0,54.0,1.4,1.8,15.0,21.0,7.0,7.0,2023
+2023-04-15,15:00,Matchweek 31,Southampton,Crystal Palace,Home,L,0,2,58.0,42.0,0.8,0.9,11.0,10.0,4.0,2.0,2023
+2023-04-15,15:00,Matchweek 31,Tottenham,Bournemouth,Home,L,2,3,58.0,42.0,2.2,1.3,24.0,9.0,8.0,6.0,2023
+2023-04-15,15:00,Matchweek 31,Wolves,Brentford,Home,W,2,0,50.0,50.0,0.8,1.1,11.0,10.0,9.0,3.0,2023
+2023-04-15,17:30,Matchweek 31,Manchester City,Leicester City,Home,W,3,1,70.0,30.0,1.6,2.3,11.0,11.0,3.0,4.0,2023
+2023-04-16,14:00,Matchweek 31,West Ham,Arsenal,Home,D,2,2,30.0,70.0,1.8,2.7,15.0,10.0,2.0,5.0,2023
+2023-04-16,16:30,Matchweek 31,Nott'ham Forest,Manchester Utd,Home,L,0,2,32.0,68.0,0.7,3.5,6.0,22.0,0.0,7.0,2023
+2023-04-17,20:00,Matchweek 31,Leeds United,Liverpool,Home,L,1,6,27.0,73.0,1.4,2.7,13.0,13.0,3.0,7.0,2023
+2023-04-21,20:00,Matchweek 32,Arsenal,Southampton,Home,D,3,3,74.0,26.0,2.4,1.3,25.0,8.0,5.0,6.0,2023
+2023-04-22,12:30,Matchweek 32,Fulham,Leeds United,Home,W,2,1,50.0,50.0,1.7,0.8,12.0,10.0,5.0,2.0,2023
+2023-04-22,15:00,Matchweek 32,Brentford,Aston Villa,Home,D,1,1,44.0,56.0,2.7,1.5,16.0,14.0,5.0,2.0,2023
+2023-04-22,15:00,Matchweek 32,Crystal Palace,Everton,Home,D,0,0,56.0,44.0,0.5,0.4,12.0,10.0,2.0,5.0,2023
+2023-04-22,15:00,Matchweek 32,Leicester City,Wolves,Home,W,2,1,42.0,58.0,2.4,0.9,14.0,16.0,6.0,3.0,2023
+2023-04-22,15:00,Matchweek 32,Liverpool,Nott'ham Forest,Home,W,3,2,80.0,20.0,2.8,0.9,18.0,11.0,5.0,5.0,2023
+2023-04-23,14:00,Matchweek 32,Bournemouth,West Ham,Home,L,0,4,64.0,36.0,1.5,2.4,17.0,18.0,5.0,10.0,2023
+2023-04-23,14:00,Matchweek 32,Newcastle Utd,Tottenham,Home,W,6,1,56.0,44.0,3.7,1.0,25.0,11.0,8.0,3.0,2023
+2023-04-25,19:30,Matchweek 33,Wolves,Crystal Palace,Home,W,2,0,41.0,59.0,1.4,0.8,8.0,14.0,2.0,4.0,2023
+2023-04-25,19:45,Matchweek 33,Aston Villa,Fulham,Home,W,1,0,51.0,49.0,1.0,0.1,14.0,1.0,3.0,0.0,2023
+2023-04-25,20:00,Matchweek 33,Leeds United,Leicester City,Home,D,1,1,41.0,59.0,1.5,2.1,13.0,15.0,3.0,3.0,2023
+2023-04-26,19:30,Matchweek 33,Nott'ham Forest,Brighton,Home,W,3,1,26.0,74.0,2.4,2.3,10.0,17.0,3.0,7.0,2023
+2023-04-26,19:45,Matchweek 33,Chelsea,Brentford,Home,L,0,2,71.0,29.0,1.3,1.1,15.0,7.0,4.0,1.0,2023
+2023-04-26,19:45,Matchweek 33,West Ham,Liverpool,Home,L,1,2,28.0,72.0,0.8,1.9,7.0,20.0,2.0,4.0,2023
+2023-04-26,20:00,Matchweek 33,Manchester City,Arsenal,Home,W,4,1,52.0,48.0,2.5,0.5,14.0,8.0,9.0,2.0,2023
+2023-04-27,19:45,Matchweek 33,Everton,Newcastle Utd,Home,L,1,4,40.0,60.0,0.9,2.4,13.0,15.0,5.0,7.0,2023
+2023-04-27,19:45,Matchweek 33,Southampton,Bournemouth,Home,L,0,1,57.0,43.0,0.5,0.9,11.0,16.0,2.0,2.0,2023
+2023-04-27,20:15,Matchweek 33,Tottenham,Manchester Utd,Home,D,2,2,40.0,60.0,2.5,2.0,18.0,17.0,7.0,7.0,2023
+2023-04-29,12:30,Matchweek 34,Crystal Palace,West Ham,Home,W,4,3,59.0,41.0,2.1,1.7,15.0,8.0,5.0,4.0,2023
+2023-04-29,15:00,Matchweek 34,Brentford,Nott'ham Forest,Home,W,2,1,68.0,32.0,1.6,0.7,14.0,5.0,8.0,3.0,2023
+2023-04-29,15:00,Matchweek 34,Brighton,Wolves,Home,W,6,0,57.0,43.0,3.3,0.8,22.0,10.0,8.0,2.0,2023
+2023-04-30,14:00,Matchweek 34,Bournemouth,Leeds United,Home,W,4,1,42.0,58.0,1.9,1.6,12.0,15.0,7.0,6.0,2023
+2023-04-30,14:00,Matchweek 34,Fulham,Manchester City,Home,L,1,2,38.0,62.0,0.2,2.5,4.0,11.0,1.0,8.0,2023
+2023-04-30,14:00,Matchweek 34,Manchester Utd,Aston Villa,Home,W,1,0,57.0,43.0,1.2,0.6,14.0,7.0,6.0,1.0,2023
+2023-04-30,14:00,Matchweek 34,Newcastle Utd,Southampton,Home,W,3,1,63.0,37.0,4.3,0.8,22.0,4.0,5.0,3.0,2023
+2023-04-30,16:30,Matchweek 34,Liverpool,Tottenham,Home,W,4,3,67.0,33.0,2.2,2.0,11.0,10.0,3.0,6.0,2023
+2023-05-01,20:00,Matchweek 34,Leicester City,Everton,Home,D,2,2,54.0,46.0,3.4,3.1,14.0,22.0,4.0,7.0,2023
+2023-05-02,20:00,Matchweek 34,Arsenal,Chelsea,Home,W,3,1,55.0,45.0,1.7,0.8,16.0,7.0,9.0,4.0,2023
+2023-05-03,20:00,Matchweek 28,Liverpool,Fulham,Home,W,1,0,57.0,43.0,1.8,0.9,14.0,9.0,2.0,3.0,2023
+2023-05-03,20:00,Matchweek 28,Manchester City,West Ham,Home,W,3,0,69.0,31.0,2.3,0.4,16.0,6.0,7.0,2.0,2023
+2023-05-04,20:00,Matchweek 28,Brighton,Manchester Utd,Home,W,1,0,59.0,41.0,2.3,1.4,21.0,16.0,5.0,5.0,2023
+2023-05-06,15:00,Matchweek 35,Bournemouth,Chelsea,Home,L,1,3,35.0,65.0,1.2,1.3,10.0,11.0,4.0,5.0,2023
+2023-05-06,15:00,Matchweek 35,Manchester City,Leeds United,Home,W,2,1,80.0,20.0,2.6,0.2,17.0,4.0,6.0,2.0,2023
+2023-05-06,15:00,Matchweek 35,Tottenham,Crystal Palace,Home,W,1,0,56.0,44.0,0.9,0.4,8.0,7.0,3.0,2.0,2023
+2023-05-06,15:00,Matchweek 35,Wolves,Aston Villa,Home,W,1,0,38.0,62.0,0.8,1.5,6.0,16.0,2.0,3.0,2023
+2023-05-06,17:30,Matchweek 35,Liverpool,Brentford,Home,W,1,0,54.0,46.0,2.2,0.2,15.0,5.0,5.0,1.0,2023
+2023-05-07,16:30,Matchweek 35,Newcastle Utd,Arsenal,Home,L,0,2,55.0,45.0,1.3,1.3,12.0,10.0,5.0,6.0,2023
+2023-05-07,19:00,Matchweek 35,West Ham,Manchester Utd,Home,W,1,0,35.0,65.0,1.3,1.2,15.0,19.0,4.0,4.0,2023
+2023-05-08,15:00,Matchweek 35,Fulham,Leicester City,Home,W,5,3,57.0,43.0,1.6,2.8,17.0,16.0,7.0,7.0,2023
+2023-05-08,17:30,Matchweek 35,Brighton,Everton,Home,L,1,5,78.0,22.0,3.2,2.3,23.0,10.0,5.0,5.0,2023
+2023-05-08,20:00,Matchweek 35,Nott'ham Forest,Southampton,Home,W,4,3,36.0,64.0,1.8,3.1,8.0,18.0,3.0,4.0,2023
+2023-05-13,12:30,Matchweek 36,Leeds United,Newcastle Utd,Home,D,2,2,36.0,64.0,2.0,2.3,8.0,16.0,3.0,3.0,2023
+2023-05-13,15:00,Matchweek 36,Aston Villa,Tottenham,Home,W,2,1,48.0,52.0,1.2,1.4,8.0,4.0,4.0,1.0,2023
+2023-05-13,15:00,Matchweek 36,Chelsea,Nott'ham Forest,Home,D,2,2,75.0,25.0,1.2,1.3,14.0,11.0,6.0,2.0,2023
+2023-05-13,15:00,Matchweek 36,Crystal Palace,Bournemouth,Home,W,2,0,59.0,41.0,1.5,0.3,17.0,5.0,5.0,0.0,2023
+2023-05-13,15:00,Matchweek 36,Manchester Utd,Wolves,Home,W,2,0,48.0,52.0,3.2,0.3,27.0,5.0,9.0,0.0,2023
+2023-05-13,15:00,Matchweek 36,Southampton,Fulham,Home,L,0,2,36.0,64.0,0.4,1.4,5.0,9.0,1.0,3.0,2023
+2023-05-14,14:00,Matchweek 36,Brentford,West Ham,Home,W,2,0,53.0,47.0,3.4,0.2,24.0,4.0,9.0,4.0,2023
+2023-05-14,14:00,Matchweek 36,Everton,Manchester City,Home,L,0,3,37.0,63.0,1.6,0.8,7.0,9.0,2.0,4.0,2023
+2023-05-14,16:30,Matchweek 36,Arsenal,Brighton,Home,L,0,3,41.0,59.0,0.9,1.7,14.0,12.0,2.0,6.0,2023
+2023-05-15,20:00,Matchweek 36,Leicester City,Liverpool,Home,L,0,3,34.0,66.0,0.4,2.2,4.0,16.0,4.0,5.0,2023
+2023-05-18,19:30,Matchweek 25,Newcastle Utd,Brighton,Home,W,4,1,35.0,65.0,3.6,0.5,22.0,8.0,8.0,2.0,2023
+2023-05-20,12:30,Matchweek 37,Tottenham,Brentford,Home,L,1,3,61.0,39.0,1.7,1.2,22.0,11.0,7.0,4.0,2023
+2023-05-20,15:00,Matchweek 37,Bournemouth,Manchester Utd,Home,L,0,1,41.0,59.0,1.0,1.4,10.0,20.0,4.0,5.0,2023
+2023-05-20,15:00,Matchweek 37,Fulham,Crystal Palace,Home,D,2,2,49.0,51.0,1.7,1.6,10.0,11.0,3.0,5.0,2023
+2023-05-20,15:00,Matchweek 37,Liverpool,Aston Villa,Home,D,1,1,66.0,34.0,0.7,1.3,10.0,5.0,5.0,3.0,2023
+2023-05-20,15:00,Matchweek 37,Wolves,Everton,Home,D,1,1,52.0,48.0,1.6,2.0,13.0,19.0,5.0,4.0,2023
+2023-05-20,17:30,Matchweek 37,Nott'ham Forest,Arsenal,Home,W,1,0,19.0,81.0,0.6,0.6,6.0,11.0,2.0,3.0,2023
+2023-05-21,13:30,Matchweek 37,West Ham,Leeds United,Home,W,3,1,59.0,41.0,2.1,0.9,19.0,12.0,9.0,3.0,2023
+2023-05-21,14:00,Matchweek 37,Brighton,Southampton,Home,W,3,1,63.0,37.0,2.5,0.6,26.0,5.0,8.0,1.0,2023
+2023-05-21,16:00,Matchweek 37,Manchester City,Chelsea,Home,W,1,0,64.0,36.0,1.2,1.2,15.0,13.0,2.0,6.0,2023
+2023-05-22,20:00,Matchweek 37,Newcastle Utd,Leicester City,Home,D,0,0,77.0,23.0,2.1,0.1,23.0,1.0,3.0,1.0,2023
+2023-05-24,20:00,Matchweek 32,Brighton,Manchester City,Home,D,1,1,40.0,60.0,2.2,1.8,20.0,13.0,7.0,4.0,2023
+2023-05-25,20:00,Matchweek 32,Manchester Utd,Chelsea,Home,W,4,1,42.0,58.0,5.2,1.9,17.0,14.0,8.0,5.0,2023
+2023-05-28,16:30,Matchweek 38,Arsenal,Wolves,Home,W,5,0,51.0,49.0,2.8,0.5,14.0,6.0,8.0,0.0,2023
+2023-05-28,16:30,Matchweek 38,Aston Villa,Brighton,Home,W,2,1,41.0,59.0,2.8,1.4,12.0,8.0,5.0,4.0,2023
+2023-05-28,16:30,Matchweek 38,Brentford,Manchester City,Home,W,1,0,35.0,65.0,1.3,1.6,11.0,17.0,4.0,2.0,2023
+2023-05-28,16:30,Matchweek 38,Chelsea,Newcastle Utd,Home,D,1,1,64.0,36.0,2.2,1.7,22.0,13.0,4.0,4.0,2023
+2023-05-28,16:30,Matchweek 38,Crystal Palace,Nott'ham Forest,Home,D,1,1,66.0,34.0,1.4,0.5,15.0,7.0,3.0,4.0,2023
+2023-05-28,16:30,Matchweek 38,Everton,Bournemouth,Home,W,1,0,38.0,62.0,1.0,0.5,13.0,7.0,6.0,1.0,2023
+2023-05-28,16:30,Matchweek 38,Leeds United,Tottenham,Home,L,1,4,52.0,48.0,1.5,2.2,19.0,11.0,2.0,7.0,2023
+2023-05-28,16:30,Matchweek 38,Leicester City,West Ham,Home,W,2,1,48.0,52.0,1.4,1.4,13.0,16.0,4.0,3.0,2023
+2023-05-28,16:30,Matchweek 38,Manchester Utd,Fulham,Home,W,2,1,53.0,47.0,2.9,1.8,21.0,9.0,8.0,2.0,2023
+2023-05-28,16:30,Matchweek 38,Southampton,Liverpool,Home,D,4,4,31.0,69.0,1.8,4.0,15.0,30.0,10.0,8.0,2023
